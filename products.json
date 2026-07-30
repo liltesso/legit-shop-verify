@@ -1,0 +1,41 @@
+{
+  "category": "verify",
+  "currency": "$",
+  "items": [
+    {
+      "id": "vr_binance",
+      "emoji": "🟡",
+      "name": { "uk": "Binance — верифікований акаунт", "ru": "Binance — верифицированный аккаунт", "en": "Binance — verified account" },
+      "desc": { "uk": "Пройдений KYC, готовий до торгів", "ru": "Пройден KYC, готов к торгам", "en": "KYC passed, ready to trade" },
+      "price": 42.00
+    },
+    {
+      "id": "vr_bybit",
+      "emoji": "🟠",
+      "name": { "uk": "Bybit — верифікований акаунт", "ru": "Bybit — верифицированный аккаунт", "en": "Bybit — verified account" },
+      "desc": { "uk": "Пройдений KYC, готовий до торгів", "ru": "Пройден KYC, готов к торгам", "en": "KYC passed, ready to trade" },
+      "price": 39.90
+    },
+    {
+      "id": "vr_kyc_service",
+      "emoji": "🪪",
+      "name": { "uk": "Проходження KYC під ваш акаунт", "ru": "Прохождение KYC под ваш аккаунт", "en": "KYC verification service for your account" },
+      "desc": { "uk": "Верифікація документів під ключ", "ru": "Верификация документов под ключ", "en": "Full document verification service" },
+      "price": 26.25
+    },
+    {
+      "id": "vr_okx",
+      "emoji": "⚫",
+      "name": { "uk": "OKX — верифікований акаунт", "ru": "OKX — верифицированный аккаунт", "en": "OKX — verified account" },
+      "desc": { "uk": "Пройдений KYC, готовий до торгів", "ru": "Пройден KYC, готов к торгам", "en": "KYC passed, ready to trade" },
+      "price": 36.75
+    },
+    {
+      "id": "vr_2fa_setup",
+      "emoji": "🔐",
+      "name": { "uk": "Налаштування 2FA + відновлення доступу", "ru": "Настройка 2FA + восстановление доступа", "en": "2FA setup + access recovery" },
+      "desc": { "uk": "Безпечне налаштування захисту акаунта", "ru": "Безопасная настройка защиты аккаунта", "en": "Secure account protection setup" },
+      "price": 8.40
+    }
+  ]
+}
