@@ -3,39 +3,95 @@
   "currency": "$",
   "items": [
     {
+      "id": "vr_fragment",
+      "emoji": "🤑",
+      "name": { "uk": "Fragment — верифікація", "ru": "Fragment — верификация", "en": "Fragment — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 5
+    },
+    {
+      "id": "vr_cryptobot",
+      "emoji": "🤖",
+      "name": { "uk": "CryptoBot — верифікація", "ru": "CryptoBot — верификация", "en": "CryptoBot — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 5
+    },
+    {
+      "id": "vr_tgwallet",
+      "emoji": "👛",
+      "name": { "uk": "TG Wallet — верифікація", "ru": "TG Wallet — верификация", "en": "TG Wallet — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 5
+    },
+    {
       "id": "vr_binance",
-      "emoji": "🟡",
-      "name": { "uk": "Binance — верифікований акаунт", "ru": "Binance — верифицированный аккаунт", "en": "Binance — verified account" },
-      "desc": { "uk": "Пройдений KYC, готовий до торгів", "ru": "Пройден KYC, готов к торгам", "en": "KYC passed, ready to trade" },
-      "price": 42.00
+      "emoji": "🛒",
+      "name": { "uk": "Binance — верифікація", "ru": "Binance — верификация", "en": "Binance — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
     },
     {
       "id": "vr_bybit",
-      "emoji": "🟠",
-      "name": { "uk": "Bybit — верифікований акаунт", "ru": "Bybit — верифицированный аккаунт", "en": "Bybit — verified account" },
-      "desc": { "uk": "Пройдений KYC, готовий до торгів", "ru": "Пройден KYC, готов к торгам", "en": "KYC passed, ready to trade" },
-      "price": 39.90
+      "emoji": "🌐",
+      "name": { "uk": "Bybit — верифікація", "ru": "Bybit — верификация", "en": "Bybit — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
     },
     {
-      "id": "vr_kyc_service",
-      "emoji": "🪪",
-      "name": { "uk": "Проходження KYC під ваш акаунт", "ru": "Прохождение KYC под ваш аккаунт", "en": "KYC verification service for your account" },
-      "desc": { "uk": "Верифікація документів під ключ", "ru": "Верификация документов под ключ", "en": "Full document verification service" },
-      "price": 26.25
+      "id": "vr_bybit_cards",
+      "emoji": "💳",
+      "name": { "uk": "Bybit — верифікація + картки", "ru": "Bybit — верификация + карты", "en": "Bybit — verification + cards" },
+      "desc": { "uk": "Ручна верифікація акаунта з прив'язкою карток", "ru": "Ручная верификация аккаунта с привязкой карт", "en": "Manual verification with cards linked" },
+      "price": 10
     },
     {
       "id": "vr_okx",
-      "emoji": "⚫",
-      "name": { "uk": "OKX — верифікований акаунт", "ru": "OKX — верифицированный аккаунт", "en": "OKX — verified account" },
-      "desc": { "uk": "Пройдений KYC, готовий до торгів", "ru": "Пройден KYC, готов к торгам", "en": "KYC passed, ready to trade" },
-      "price": 36.75
+      "emoji": "🌐",
+      "name": { "uk": "OKX — верифікація", "ru": "OKX — верификация", "en": "OKX — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
     },
     {
-      "id": "vr_2fa_setup",
-      "emoji": "🔐",
-      "name": { "uk": "Налаштування 2FA + відновлення доступу", "ru": "Настройка 2FA + восстановление доступа", "en": "2FA setup + access recovery" },
-      "desc": { "uk": "Безпечне налаштування захисту акаунта", "ru": "Безопасная настройка защиты аккаунта", "en": "Secure account protection setup" },
-      "price": 8.40
+      "id": "vr_bingx",
+      "emoji": "💰",
+      "name": { "uk": "BingX — верифікація", "ru": "BingX — верификация", "en": "BingX — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
+    },
+    {
+      "id": "vr_mexc",
+      "emoji": "🌋",
+      "name": { "uk": "MEXC — верифікація", "ru": "MEXC — верификация", "en": "MEXC — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
+    },
+    {
+      "id": "vr_kucoin",
+      "emoji": "💰",
+      "name": { "uk": "KuCoin — верифікація", "ru": "KuCoin — верификация", "en": "KuCoin — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
+    },
+    {
+      "id": "vr_bitget",
+      "emoji": "🤑",
+      "name": { "uk": "BitGet — верифікація", "ru": "BitGet — верификация", "en": "BitGet — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
+    },
+    {
+      "id": "vr_antarctic",
+      "emoji": "❤️",
+      "name": { "uk": "Antarctic Wallet — верифікація", "ru": "Antarctic Wallet — верификация", "en": "Antarctic Wallet — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
+    },
+    {
+      "id": "vr_faceit",
+      "emoji": "🌃",
+      "name": { "uk": "Faceit — верифікація", "ru": "Faceit — верификация", "en": "Faceit — verification" },
+      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
+      "price": 10
     }
   ]
 }
