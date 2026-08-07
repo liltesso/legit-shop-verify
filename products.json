@@ -6,8 +6,9 @@
       "id": "vr_fragment",
       "emoji": "🤑",
       "name": { "uk": "Fragment — верифікація", "ru": "Fragment — верификация", "en": "Fragment — verification" },
-      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
-      "price": 5
+      "desc": { "uk": "Потрібен лише номер телефону від акаунта — код прийде клієнту окремо", "ru": "Нужен только номер телефона от аккаунта — код придёт клиенту отдельно", "en": "Just the account's phone number needed — code arrives separately" },
+      "price": 5,
+      "deliveryType": "fragment"
     },
     {
       "id": "vr_cryptobot",
