@@ -6,23 +6,25 @@
       "id": "vr_fragment",
       "emoji": "🤑",
       "name": { "uk": "Fragment — верифікація", "ru": "Fragment — верификация", "en": "Fragment — verification" },
-      "desc": { "uk": "Потрібен лише номер телефону від акаунта — код прийде клієнту окремо", "ru": "Нужен только номер телефона от аккаунта — код придёт клиенту отдельно", "en": "Just the account's phone number needed — code arrives separately" },
+      "desc": { "uk": "Потрібен номер телефону від акаунта — бот сам увійде і передасть сесію на верифікацію", "ru": "Нужен номер телефона от аккаунта — бот сам войдёт и передаст сессию на верификацию", "en": "Just the account's phone number — the bot logs in itself and hands the session off for verification" },
       "price": 5,
-      "deliveryType": "fragment"
+      "deliveryType": "tdata"
     },
     {
       "id": "vr_cryptobot",
       "emoji": "🤖",
       "name": { "uk": "CryptoBot — верифікація", "ru": "CryptoBot — верификация", "en": "CryptoBot — verification" },
-      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
-      "price": 5
+      "desc": { "uk": "Потрібен номер телефону від акаунта — бот сам увійде і передасть сесію на верифікацію", "ru": "Нужен номер телефона от аккаунта — бот сам войдёт и передаст сессию на верификацию", "en": "Just the account's phone number — the bot logs in itself and hands the session off for verification" },
+      "price": 5,
+      "deliveryType": "tdata"
     },
     {
       "id": "vr_tgwallet",
       "emoji": "👛",
       "name": { "uk": "TG Wallet — верифікація", "ru": "TG Wallet — верификация", "en": "TG Wallet — verification" },
-      "desc": { "uk": "Ручна верифікація акаунта, виконує наш верифікатор", "ru": "Ручная верификация аккаунта, выполняет наш верификатор", "en": "Manual account verification, done by our verifier" },
-      "price": 5
+      "desc": { "uk": "Потрібен номер телефону від акаунта — бот сам увійде і передасть сесію на верифікацію", "ru": "Нужен номер телефона от аккаунта — бот сам войдёт и передаст сессию на верификацию", "en": "Just the account's phone number — the bot logs in itself and hands the session off for verification" },
+      "price": 5,
+      "deliveryType": "tdata"
     },
     {
       "id": "vr_binance",
